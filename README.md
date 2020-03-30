@@ -41,3 +41,16 @@ maint = print (quadrado 2)
 ```
 
 * Para entender melhor como Compilar um programa Haskell, leia esse [Tutorial](Como_Compilar.md)
+
+### Utilização de Guards
+
+* **Guards** são Expressões Booleanas que são iniciado pelo símbolo **|** onde são opções que a Função vai verificar por um teste Booleano, caso nenhuma das Expressões seja _True_ tem que ser elaborado o **otherwise** que sempre é chamado quando todos os outros falham.
+* Exemplo:
+
+```hs
+-- Verificação de qual valor é o menor
+menor:: Int -> Int -> Int
+menor a b 
+    | a <= b    = a
+    | otherwise = b
+```
