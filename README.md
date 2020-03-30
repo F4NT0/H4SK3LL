@@ -40,4 +40,4 @@ maint = print (quadrado 2)
 -- Saida: 4
 ```
 
-* Para entender melhor como Compilar um programa Haskell, leia esse [Tutorial](Como_Compilar)
+* Para entender melhor como Compilar um programa Haskell, leia esse [Tutorial](Como_Compilar.md)
