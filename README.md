@@ -48,9 +48,10 @@ maint = print (quadrado 2)
 * Exemplo:
 
 ```hs
--- Verificação de qual valor é o menor
+-- Verificação se o valor inicial é o menor
 menor:: Int -> Int -> Int
 menor a b 
     | a <= b    = a
     | otherwise = b
 ```
+

@@ -25,14 +25,14 @@ main = print (quadrado 2)
 
 **Passo 2**
 
-* No terminal, coloque o comando **ghci**
+* No terminal, coloque o comando **ghci** no Diretório onde se encontra os seus arquivos de Haskell.
 * Esse comando vai abrir o Compilador do Haskell chamado **GHCI**(**G**lasgow **H**askell **C**ompiler **I**nteractive) onde podemos interagir com os programas ou escrever testes mais Fácil.
 * Aqui possui alguns comandos do GHCI:
 
 Comando|Para que serve
 |---|---|
 **:quit** | Sair do Compilador
-**:load nomeArquivo**| Carrega um arquivo no compilador e inicia o arquivo
+**:load nomeArquivo.hs**| Carrega um arquivo no compilador e inicia o arquivo
 
 * Quando se inicia o compilador irá aparecer no canto esquerdo a mensagem **Prelude >**
 * Quando se carrega o arquivo com o **:load** vai alterar essa mensagem para ***Main>**
