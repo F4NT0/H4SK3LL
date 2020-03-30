@@ -1,3 +1,11 @@
--- Comentário no Haskell
+---------------------------------
+-- ARQUIVO DE TESTE DE FUNÇÕES --
+---------------------------------
 
-add x y = x + y
+-- Valor de Entrada ao Quadrado
+quadrado:: Int -> Int
+quadrado x = x * x
+
+-- Saida
+main = print (quadrado 2)
+
