@@ -33,9 +33,11 @@ booleano::Bool
 quadrado::Int -> Int
 quadrado x = x * x
 ```
-* Para testar a Função chamamos um teste como o seguinte
+* Para testar a Função chamamos um teste criando um **main** como o seguinte exemplo:
 
 ```hs
-quadrado 2
+maint = print (quadrado 2)
 -- Saida: 4
 ```
+
+* Para entender melhor como Compilar um programa Haskell, leia esse [Tutorial](Como_Compilar)
