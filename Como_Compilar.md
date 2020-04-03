@@ -33,6 +33,8 @@ Comando|Para que serve
 |---|---|
 **:quit** | Sair do Compilador
 **:load nomeArquivo.hs**| Carrega um arquivo no compilador e inicia o arquivo
+**:reload**| Reinicia a ultima chamada feita
+**:cd nomeDiretorio**| Muda o Diretório para o Diretório Desejado
 
 * Quando se inicia o compilador irá aparecer no canto esquerdo a mensagem **Prelude >**
 * Quando se carrega o arquivo com o **:load** vai alterar essa mensagem para ***Main>**
