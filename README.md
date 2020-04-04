@@ -10,9 +10,9 @@
 
 Página | Descrição
 |---|---|
-[Informações Básicas da Linguagem](infos/Basico_Da_Linguagem)| Algumas informações Básicas de Haskell
-[Como compilar programas em Haskell](infos/Como_Compilar)| Todas as informações para compilar programs de Haskell
-[Informações da Linguagem Haskell](infos/haskell)| Resumo sobre a Linguagem
+[Informações Básicas da Linguagem](infos/Basico_Da_Linguagem.md)| Algumas informações Básicas de Haskell
+[Como compilar programas em Haskell](infos/Como_Compilar.md)| Todas as informações para compilar programs de Haskell
+[Informações da Linguagem Haskell](infos/haskell.md)| Resumo sobre a Linguagem
 
 **PROGRAMAS**
 
