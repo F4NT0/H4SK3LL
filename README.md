@@ -1,11 +1,5 @@
 # Repositório de Informações sobre Haskell
 
----
-
-<img src="images/haskell_logo.png" height="50" width="50">
-
----
-
 **INFORMAÇÕES**
 
 Página | Descrição
