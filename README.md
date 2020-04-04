@@ -2,7 +2,7 @@
 
 ---
 
-<img src="images/haskell_logo.png" height="10" width="10">
+<img src="images/haskell_logo.png" height="50" width="50">
 
 ---
 
