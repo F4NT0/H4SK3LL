@@ -1,12 +1,11 @@
-[Voltar](README)
+[Voltar](README.md)
 |---|
 
 # A Linguagem Haskell
 
 * Resumos Feitos das Páginas:
     * [Learn Haskell for a Greater Good - Introduction](http://learnyouahaskell.com/introduction)
-    * [Programação Funcional - Código Fonte TV](https://www.youtube.com/watch?v=BxbHGPivjdc)
-    * []()
+    * [Programação Funcional - Código Fonte TV](https://www.youtube.com/watch?v=BxbHGPivjdc)    
 
 
 ---

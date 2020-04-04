@@ -1,4 +1,4 @@
-[Voltar](README)
+[Voltar](README.md)
 |---|
 
 # Aprendendo a Programar em Haskell
@@ -19,7 +19,7 @@
 
 **Definindo o Tipo de uma Constante**
 
-* Usamos a Notação **::** para definirmos o tipo de uma Constante
+* Usamos a Notação **::** para definirmos o tipo
 * Declaramos da seguinte forma:
 
 ```hs
