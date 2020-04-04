@@ -1,4 +1,4 @@
-[Voltar](README.md)
+[Voltar](../README.md)
 |---|
 
 # Aprendendo a Programar em Haskell
