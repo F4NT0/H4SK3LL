@@ -22,3 +22,7 @@ Programa | Descrição
 [Escrevendo e Lendo Arquivos](programs/arquivos.hs) | Funções para Leitura de Arquivos
 [Exemplo de uso de Lambdas](programs/lambda.hs)| Como Utilizar Lambdas nas Funções
 [Funções Aleatórias](programs/functions.hs)| Algumas Funções de Teste
+
+**VIDEO DE EXPLICAÇÃO**
+
+<img src="images/Intro_Haskell.png">

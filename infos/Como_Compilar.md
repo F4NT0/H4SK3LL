@@ -44,4 +44,4 @@ Comando|Para que serve
 * Se deseja carregar o exemplo base, coloque **main** 
 * Se deseja fazer outro teste de outra função, chame o nome da função e o numero de teste: exemplo: **quadrado 4**
 
-<img src="images/exemplo_compilador.png">
+<img src="../images/exemplo_compilador.png">
