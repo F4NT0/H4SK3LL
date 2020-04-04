@@ -25,4 +25,4 @@ Programa | Descrição
 
 **VIDEO DE EXPLICAÇÃO**
 
-<img src="images/Intro_Haskell.png">
+[![](images/Intro_Haskell.png)](https://youtu.be/P1W-hoKw8b4)
