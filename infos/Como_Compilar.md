@@ -1,3 +1,6 @@
+[Voltar](README)
+|---|
+
 # Como Compilar programas Haskell
 
 ### Utilizando o Linux
@@ -31,9 +34,9 @@ main = print (quadrado 2)
 
 Comando|Para que serve
 |---|---|
-**:quit** | Sair do Compilador
-**:load nomeArquivo.hs**| Carrega um arquivo no compilador e inicia o arquivo
-**:reload**| Reinicia a ultima chamada feita
+**:quit** ou **:q**| Sair do Compilador
+**:load nomeArquivo.hs** ou **:l nomeArquivo.hs**| Carrega um arquivo no compilador e inicia o arquivo
+**:reload** ou **:r**| Reinicia a ultima chamada feita
 **:cd nomeDiretorio**| Muda o Diretório para o Diretório Desejado
 
 * Quando se inicia o compilador irá aparecer no canto esquerdo a mensagem **Prelude >**

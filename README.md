@@ -1,57 +1,24 @@
-# Aprendendo a Programar em Haskell
+# Repositório de Informações sobre Haskell
 
+---
 
-**Comentários**
+<img src="images/haskell_logo.png">
 
-```hs
--- Commentário de uma Linha
-```
+---
 
-```hs
---
--- Comentários de Multiplas Linhas
--- Neste Arquivo
--- Pode se colocar em cada linha um novo --
-```
+**INFORMAÇÕES**
 
-**Definindo o Tipo de uma Variável**
+Página | Descrição
+|---|---|
+[Informações Básicas da Linguagem](infos/Basico_Da_Linguagem)| Algumas informações Básicas de Haskell
+[Como compilar programas em Haskell](infos/Como_Compilar)| Todas as informações para compilar programs de Haskell
+[Informações da Linguagem Haskell](infos/haskell)| Resumo sobre a Linguagem
 
-* Usamos a Notação **::** para definirmos o tipo de uma Variável
-* Declaramos da seguinte forma:
+**PROGRAMAS**
 
-```hs
--- nomeVariavel::tipo
-idade::Int
-booleano::Bool
-```
-
-* Quando estamos trabalhando com uma Função em Haskell devemos dizer o tipo de entrada e o tipo de saida antes de elaborar a Função.
-* No exemplo abaixo, queremos pegar um valor Inteiro(_Int_) e retornar um valor Inteiro também, onde isso tem que ser definido antes de elaborar o que a Função faz.
-
-```hs
--- Função que retorna o Quadrado do Valor
-quadrado::Int -> Int
-quadrado x = x * x
-```
-* Para testar a Função chamamos um teste criando um **main** como o seguinte exemplo:
-
-```hs
-maint = print (quadrado 2)
--- Saida: 4
-```
-
-* Para entender melhor como Compilar um programa Haskell, leia esse [Tutorial](Como_Compilar.md)
-
-### Utilização de Guards
-
-* **Guards** são Expressões Booleanas que são iniciado pelo símbolo **|** onde são opções que a Função vai verificar por um teste Booleano, caso nenhuma das Expressões seja _True_ tem que ser elaborado o **otherwise** que sempre é chamado quando todos os outros falham.
-* Exemplo:
-
-```hs
--- Verificação se o valor inicial é o menor
-menor:: Int -> Int -> Int
-menor a b 
-    | a <= b    = a
-    | otherwise = b
-```
-
+Programa | Descrição
+|---|---|
+[Fatorial com Recursão](programs/fatorial.hs)| Exemplo de Utilização de Recursão
+[Escrevendo e Lendo Arquivos](programs/arquivos.hs) | Funções para Leitura de Arquivos
+[Exemplo de uso de Lambdas](programs/lambda.hs)| Como Utilizar Lambdas nas Funções
+[Funções Aleatórias](programs/functions.hs)| Algumas Funções de Teste
