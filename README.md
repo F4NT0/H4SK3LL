@@ -17,6 +17,10 @@ Programa | Descrição
 [Exemplo de uso de Lambdas](programs/lambda.hs)| Como Utilizar Lambdas nas Funções
 [Funções Aleatórias](programs/functions.hs)| Algumas Funções de Teste
 
+**RELATÓRIO DE INFORMAÇÕES SOBRE HASKELL**
+
+[![](images/relatorio_haskell.png)](Relatorio/artigo.pdf)
+
 **VIDEO DE EXPLICAÇÃO**
 
 [![](images/Intro_Haskell.png)](https://youtu.be/P1W-hoKw8b4)
