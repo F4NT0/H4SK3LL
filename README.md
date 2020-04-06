@@ -19,7 +19,7 @@ Programa | Descrição
 
 **RELATÓRIO DE INFORMAÇÕES SOBRE HASKELL**
 
-[![](images/relatorio_haskell.png)](Relatorio/artigo.pdf)
+[![](images/relatorio_haskell.png)](Relatorio/Haskell_LP.pdf)
 
 **VIDEO DE EXPLICAÇÃO**
 
