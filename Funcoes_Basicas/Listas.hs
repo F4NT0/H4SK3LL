@@ -18,3 +18,20 @@ testeTake = print(take 3 [1,2,3,4,5,6])
 
 -- RETIRAR OS 3 PRIMEIROS VALORES
 testeDrop = print(drop 3 [1,2,3,4,5,6])
+
+-- TAMANHO DA LISTA
+testeLength = print(length [1,2,3,4,5,6])
+
+-- CONCATENANDO LISTAS
+testeConcat = print([1,2,3] ++ [4,5])
+
+-- SOMA DE TODOS OS VALORES DA LISTA
+testeSum = print(sum [1,2,3,4,5])
+
+-- MULTIPLICAÇÃO DE TODOS OS VALORES DA LISTA
+testeProd = print(product [1,2,3])
+
+-- REVERTENDO A LISTA
+testeReverse = print(reverse [1,2,3,4,5])
+
+
