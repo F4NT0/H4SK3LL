@@ -1,6 +1,6 @@
----------------------------------
--- ARQUIVO DE TESTE DE FUNÇÕES --
----------------------------------
+-- ┌────────────────────────────┐
+-- ׀ARQUIVO DE TESTE DE FUNÇÕES ׀
+-- └────────────────────────────┘
 
 -- Valor de Entrada ao Quadrado
 quadrado:: Int -> Int

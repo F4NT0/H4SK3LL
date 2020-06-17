@@ -24,3 +24,12 @@ Programa | Descrição
 **VIDEO DE EXPLICAÇÃO**
 
 [![](images/Intro_Haskell.png)](https://youtu.be/P1W-hoKw8b4)
+
+### Comandos Rápidos
+
+Descrição|Comando
+|---|---|
+Abrir Arquivo no Compilador Haskell| `ghci arquivo.hs`
+Carregar Arquivo dentro do Compilador|`:load arquivo.hs`
+Sair do Compilador|`:q`
+

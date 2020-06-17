@@ -13,6 +13,9 @@ testeTail = print(tail [1,2,3])
 -- PEGANDO UMA POSIÇÃO DA LISTA
 testePos = print([1,2,3] !! 2) -- deve ser 3
 
+-- PEGANDO ULTIMO VALOR DE UMA LISTA
+testeLast = print(last [1,2,3]) --deve ser 3
+
 -- PEGAR OS 3 PRIMEIROS VALORES
 testeTake = print(take 3 [1,2,3,4,5,6])
 
